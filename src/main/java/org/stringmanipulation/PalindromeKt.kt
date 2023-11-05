@@ -18,10 +18,12 @@ fun isPalindrome(s:String): Boolean {
             }
         }
     }
+
     return true;
 }
 
 fun main() {
     var testString = "abcba"
+
     println(isPalindrome(testString))
 }

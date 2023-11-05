@@ -16,11 +16,12 @@ public class ReverseString {
             start++;
             end--;
         }
+
         return s;
     }
 
     public static void main(String[] args) {
-        char[] testCharArray = {'t','e','s','t'};
+        char[] testCharArray = {'t', 'e', 's', 't'};
         for (char c : reverseString(testCharArray)) {
             System.out.println("c = " + c);
         }

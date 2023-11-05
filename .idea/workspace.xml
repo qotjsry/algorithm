@@ -5,22 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="663e6bdc-6d3f-442b-968f-477bb1fa6fd8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/PalindromeKt.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/ReverseStringKt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/MostCommonWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/MostCommonWordKt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/RecorderLogFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/RecorderLogFilesKt.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/PalindromeKt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/PalindromeKt.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/ReverseStringKt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/stringmanipulation/ReverseStringKt.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,9 +85,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseString">
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.stringmanipulation.Palindrome" />
+  <component name="RunManager" selected="Kotlin.MostCommonWordKtKt">
+    <configuration name="MostCommonWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.stringmanipulation.MostCommonWord" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.stringmanipulation.ReverseString" />
+    <configuration name="RecorderLogFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.stringmanipulation.RecorderLogFiles" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +112,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeKtKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.stringmanipulation.PalindromeKtKt" />
+    <configuration name="MostCommonWordKtKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.stringmanipulation.MostCommonWordKtKt" />
+      <module name="algorithm.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecorderLogFilesKtKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.stringmanipulation.RecorderLogFilesKtKt" />
+      <module name="algorithm.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStringKtKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.stringmanipulation.ReverseStringKtKt" />
       <module name="algorithm.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,9 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Kotlin.PalindromeKtKt" />
-        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Kotlin.MostCommonWordKtKt" />
+        <item itemvalue="Application.MostCommonWord" />
+        <item itemvalue="Kotlin.RecorderLogFilesKtKt" />
+        <item itemvalue="Application.RecorderLogFiles" />
+        <item itemvalue="Kotlin.ReverseStringKtKt" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +160,7 @@
       <updated>1698570079271</updated>
       <workItem from="1698570080446" duration="1415000" />
       <workItem from="1699077228357" duration="4193000" />
-      <workItem from="1699081438802" duration="4201000" />
+      <workItem from="1699081438802" duration="11293000" />
     </task>
     <servers />
   </component>
@@ -163,7 +172,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

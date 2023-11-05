@@ -10,13 +10,14 @@ fun reverseString(s: CharArray): CharArray {
         start++
         end--
     }
+
     return s;
 }
 
 fun main() {
     var testCharArray = charArrayOf('t','e','s','t')
+
     for(c in reverseString(testCharArray)) {
         println(c)
     }
-
 }
