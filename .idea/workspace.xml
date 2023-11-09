@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="663e6bdc-6d3f-442b-968f-477bb1fa6fd8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/array/TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/array/TrappingRainWaterKt.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/array/ThreeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +35,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Kotlin Script" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -81,13 +80,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TrappingRainWater">
-    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.stringmanipulation.LongestPalindrome" />
+  <component name="RunManager" selected="Application.ThreeSum">
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.array.ThreeSum" />
       <module name="algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.stringmanipulation.*" />
+          <option name="PATTERN" value="org.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.TrappingRainWater" />
         <item itemvalue="Kotlin.TwoSumKtKt" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Kotlin.LongestPalindromeKtKt" />
-        <item itemvalue="Application.LongestPalindromeSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +161,7 @@
       <updated>1698570079271</updated>
       <workItem from="1698570080446" duration="1415000" />
       <workItem from="1699077228357" duration="4193000" />
-      <workItem from="1699081438802" duration="23220000" />
+      <workItem from="1699081438802" duration="25493000" />
     </task>
     <servers />
   </component>
